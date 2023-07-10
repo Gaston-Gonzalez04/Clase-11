@@ -1,0 +1,48 @@
+[{
+    "marca": "Hot Toys",
+    "nombre": "Spider-Man",
+    "precio": 2000,
+    "stock": 10
+},
+
+{
+    "marca": "Hot Toys",
+    "nombre": "Hellboy",
+    "precio": 1200,
+    "stock": 25
+},
+
+{
+    "marca": "Hot Toys",
+    "nombre": "Tony Stark",
+    "precio": 1700,
+    "stock": 15
+},
+
+{
+    "marca": "Hot Toys",
+    "nombre": "Black Panther",
+    "precio": 1500,
+    "stock": 20
+},
+
+{
+    "marca": "Hot Toys",
+    "nombre": "Batman",
+    "precio": 1550,
+    "stock": 12
+},
+
+{
+    "marca": "Hot Toys",
+    "nombre": "Captain America",
+    "precio": 1750,
+    "stock": 5
+},
+
+{
+    "marca": "Hot Toys",
+    "nombre": "Superman",
+    "precio": 1150,
+    "stock": 20
+}]
